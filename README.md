@@ -12,3 +12,8 @@ Achieve 1 million clicks on the Egg/Steam game in under 3 hours with the help of
 
 ## Installation
 - [loop-Enter](https://github.com/4leX-42/You-did-this-achievement/blob/main/loop-Enter/loop-Enter-EXE.zip)
+
+
+- https://github.com/4leX-42/You-did-this-achievement/assets/130928630/3a31167e-94e9-46d2-9606-d139d5036b92
+
+
