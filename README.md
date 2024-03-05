@@ -1,8 +1,24 @@
 <div align="center">
 <picture><img src="https://media.tenor.com/Ha_iji3tFwAAAAAi/comiendo-huevo-endiablado-clarence.gif" width = 50px align="center"></picture> 
 </div>
-Logra 1M de clics en Egg/Steam en 2h 46m con mi script loop-Enter y la app de OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
 
-Achieve 1M clicks on Egg/Steam in 2h 46m with my loop-Enter script and OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
+# Egg Clicker 1M Challenge
 
-Game🥚: [https://store.steampowered.com/app/2784840/Egg/]
+Achieve 1 million clicks on the Egg/Steam game in under 3 hours with the help of my loop-Enter script and the powerful OP Auto Clicker.
+
+## Game🥚
+
+- [Egg on Steam](https://store.steampowered.com/app/2784840/Egg/)
+
+## Auto Clicker App
+
+- [Download OP Auto Clicker](https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US)
+
+## Instalación
+
+## Uso
+
+### Ejemplo de Comandos:
+
+```bash
+python clicker_script.py --config=config.ini
