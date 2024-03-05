@@ -1,2 +1,11 @@
-# Egg-
-Script + OP Auto Clicker: 1M de clics en Egg / Steam en 2h 46min  Consigue el logro de 1M de clics en Egg / Steam en solo 2 horas y 46 minutos usando este script y OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
+# Time required for clicks:
+- Every 10 seconds: 1000 clicks
+  
+## Calculation for specific clicks:
+- **500,000 clicks:**
+  - (500,000 clicks) / (100 clicks/second) = 5000 seconds
+  - 5000 seconds = 1 hour and 23 minutes
+  
+- **1,000,000 clicks:**
+  - (1,000,000 clicks) / (100 clicks/second) = 10,000 seconds
+  - 10,000 seconds = 2 hours and 46 minutes
