@@ -1,1 +1,3 @@
-Script + OP Auto Clicker: 1M de clics en Egg / Steam en 2h 46min  Logra 1M de clics en Egg/Steam en 2h 46m con mi script de Enter y la app de OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
+Logra 1M de clics en Egg/Steam en 2h 46m con mi script loop-Enter y la app de OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
+
+Achieve 1M clicks on Egg/Steam in 2h 46m with my loop-Enter script and OP Auto Clicker. [https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US]
