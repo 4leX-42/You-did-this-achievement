@@ -15,7 +15,7 @@ Achieve 1 million clicks on the Egg/Steam game in under 3 hours with the help of
 - [Download OP Auto Clicker](https://apps.microsoft.com/detail/xpfm2k6gpv72cr?hl=en-US&gl=US)
 
 ## Instalación
-
+https://github.com/4leX-42/Egg-loop-Enter/blob/main/loop-Enter/loop-enter.exe
 ## Uso
 
 ### Ejemplo de Comandos:
